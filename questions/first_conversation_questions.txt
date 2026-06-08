@@ -1,0 +1,32 @@
+[
+  {
+    "id": "q_01",
+    "player": 1,
+    "en_question": "What does Nastya say when she sees Yahia?",
+    "answer": "Nice to see you."
+  },
+  {
+    "id": "q_02",
+    "player": 2,
+    "en_question": "How was Yahia's day?",
+    "answer": "His day was good."
+  },
+  {
+    "id": "q_03",
+    "player": 1,
+    "en_question": "Is Yahia glad to see Nastya?",
+    "answer": "Yes he is glad to see her."
+  },
+  {
+    "id": "q_04",
+    "player": 2,
+    "en_question": "What was Yahia doing all day?",
+    "answer": "He was learning English all day."
+  },
+  {
+    "id": "q_05",
+    "player": 1,
+    "en_question": "What do they decide to do together?",
+    "answer": "They decide to practice English together."
+  }
+]
