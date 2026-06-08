@@ -1,0 +1,58 @@
+[
+  {
+    "id": "greet_01",
+    "speaker": 1,
+    "ru": "Привет.",
+    "en": "Hi.",
+    "audio": "greet_01.mp3"
+  },
+  {
+    "id": "greet_02",
+    "speaker": 2,
+    "ru": "Привет. Рада тебя видеть.",
+    "en": "Hi. Nice to see you.",
+    "audio": "greet_02.mp3"
+  },
+  {
+    "id": "greet_03",
+    "speaker": 1,
+    "ru": "Как прошёл твой день?",
+    "en": "How was your day?",
+    "audio": "greet_03.mp3"
+  },
+  {
+    "id": "greet_04",
+    "speaker": 2,
+    "ru": "Хорошо, спасибо. А твой?",
+    "en": "Good, thanks. And yours?",
+    "audio": "greet_04.mp3"
+  },
+  {
+    "id": "greet_05",
+    "speaker": 1,
+    "ru": "Тоже хорошо. Я рад тебя видеть.",
+    "en": "Good too. I am glad to see you.",
+    "audio": "greet_05.mp3"
+  },
+  {
+    "id": "greet_06",
+    "speaker": 2,
+    "ru": "Я тоже рада. Чем ты занимался сегодня?",
+    "en": "Me too. What did you do today?",
+    "audio": "greet_06.mp3"
+  },
+  {
+    "id": "greet_07",
+    "speaker": 1,
+    "ru": "Я учил английский весь день!",
+    "en": "I was learning English all day!",
+    "audio": "greet_07.mp3"
+  },
+  {
+    "id": "greet_08",
+    "speaker": 2,
+    "ru": "Это замечательно. Давай попрактикуемся вместе.",
+    "en": "That is great. Let us practice together.",
+    "audio": "greet_08.mp3"
+  }
+]
